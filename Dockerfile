@@ -1,5 +1,5 @@
 FROM alpine:3.3
-MAINTAINER John Doe <john@doe.com>
+MAINTAINER Arseniy Ivanov <freeatnet@freeatnet.com>
 
 ENV APP_HOME /srv/tootsie
 ENV BUILD_PACKAGES bash curl-dev ruby-dev build-base
