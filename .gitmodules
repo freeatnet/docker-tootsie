@@ -1,0 +1,3 @@
+[submodule "tootsie"]
+	path = tootsie
+	url = https://github.com/freeatnet/tootsie.git
